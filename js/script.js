@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const products = [
         { id: 1, name: 'Modern Chair', price: 180, image: 'https://images.unsplash.com/photo-1592078615290-033ee584e267?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80' },
         { id: 2, name: 'Minimalist Lamp', price: 80, image: 'https://images.unsplash.com/photo-1543198126-a8ad8e47fb22?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80' },
-        { id: 3, name: 'Wooden Desk', price: 350, image: 'https://images.unsplash.com/photo-1593325024795-3d4c99711727?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80' },
+        { id: 3, name: 'Wooden Desk', price: 350, image: 'images/download.jpeg' },
         { id: 4, name: 'Sofa Set', price: 950, image: 'https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80' },
     ];
 
